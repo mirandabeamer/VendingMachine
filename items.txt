@@ -1,0 +1,9 @@
+1::Snickers::1.25::10
+2::Twix::1.25::10
+3::Skittles::1.25::10
+4::Cheetos::1.50::10
+5::Doritos::1.50::10
+6::Pretzels::1.50::10
+7::Coca Cola::1.75::10
+8::Sprite::2.00::10
+9::Powerade::1.50::10
